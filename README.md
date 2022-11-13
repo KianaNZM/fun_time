@@ -43,7 +43,7 @@ $ git commit -m "your message here"
 To push the changes:
 ```
 # if the branch does not exist in the origin first you should set the upstream
-$ git --set-upstream origin dev
+$ git push --set-upstream origin dev
 
 # The to push to the branch
 $ git push
